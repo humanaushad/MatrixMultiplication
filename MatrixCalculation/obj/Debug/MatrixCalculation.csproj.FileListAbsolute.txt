@@ -1,0 +1,9 @@
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixCalculation\obj\Debug\MatrixCalculation.csprojResolveAssemblyReference.cache
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixCalculation\obj\Debug\MatrixCalculation.csproj.CoreCompileInputs.cache
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixCalculation\bin\Debug\MatrixCalculation.dll
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixCalculation\bin\Debug\MatrixCalculation.pdb
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixCalculation\bin\Debug\MathNet.Numerics.dll
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixCalculation\bin\Debug\MathNet.Numerics.xml
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixCalculation\obj\Debug\MatrixCalculation.csproj.CopyComplete
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixCalculation\obj\Debug\MatrixCalculation.dll
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixCalculation\obj\Debug\MatrixCalculation.pdb

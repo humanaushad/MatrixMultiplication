@@ -1,0 +1,14 @@
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixMultiplication\obj\Debug\netcoreapp2.0\MatrixMultiplication.csprojResolveAssemblyReference.cache
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixMultiplication\obj\Debug\netcoreapp2.0\MatrixMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixMultiplication\obj\Debug\netcoreapp2.0\MatrixMultiplication.AssemblyInfoInputs.cache
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixMultiplication\obj\Debug\netcoreapp2.0\MatrixMultiplication.AssemblyInfo.cs
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixMultiplication\bin\Debug\netcoreapp2.0\MatrixMultiplication.deps.json
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixMultiplication\bin\Debug\netcoreapp2.0\MatrixMultiplication.runtimeconfig.json
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixMultiplication\bin\Debug\netcoreapp2.0\MatrixMultiplication.runtimeconfig.dev.json
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixMultiplication\bin\Debug\netcoreapp2.0\MatrixMultiplication.dll
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixMultiplication\bin\Debug\netcoreapp2.0\MatrixMultiplication.pdb
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixMultiplication\bin\Debug\netcoreapp2.0\MatrixCalculation.dll
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixMultiplication\bin\Debug\netcoreapp2.0\MatrixCalculation.pdb
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixMultiplication\obj\Debug\netcoreapp2.0\MatrixMultiplication.csproj.CopyComplete
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixMultiplication\obj\Debug\netcoreapp2.0\MatrixMultiplication.dll
+C:\Users\HNaushad\source\repos\MatrixMultiplication\MatrixMultiplication\obj\Debug\netcoreapp2.0\MatrixMultiplication.pdb
